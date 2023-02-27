@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E73-904C
+
+ Directory of C:\Users\sanni\Desktop\git project
+
+27-02-2023  16:12    <DIR>          .
+27-02-2023  16:12    <DIR>          ..
+27-02-2023  16:12                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  439,218,487,296 bytes free
